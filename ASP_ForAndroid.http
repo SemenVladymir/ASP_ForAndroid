@@ -1,0 +1,6 @@
+@ASP_ForAndroid_HostAddress = http://localhost:5127
+
+GET {{ASP_ForAndroid_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
